@@ -51,4 +51,4 @@ Infrastructure principale opérationnelle en devnet
 Prochaines étapes: testnet multi-nœuds, fork execution pipeline
 Total Security Fixes: 38 corrections de sécurité implémentées dans le projet.
 
-2026 1er trimestre audit public
+2026 1er trimestre audit public et testnet
