@@ -39,3 +39,5 @@ Sidechains & governance: custom contracts (governance, validation, host chain)
 Lightweight client: Kotlin + Substrate client + SCALE codec + JSON serialization
 
 Versioning: Git / GitHub or GitLab
+
+2026 audit public & testnet
